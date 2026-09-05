@@ -11,4 +11,8 @@ Resourcegroup = {
         name = "Rgdeer"
         location = "central india"
     }
+    RG4 = {
+        name = "RgHippo"
+        location = "central india"
+    }
 }
